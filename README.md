@@ -17,11 +17,13 @@ En este tutorial aprenderás a obtener estadísticos descriptivos de las variabl
 - [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c3.do)
 
 ## Capítulo 4: Tablas de frecuencias en Stata
+En este tutorial aprenderás a obtener distribuciones de frecuencias y tablas de estadísticos en Stata.
 - [Link](https://www.youtube.com/watch?v=UWWU0G3qd1I&t=459s)
 - [Base de datos](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/data1.dta)
 - [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c4.do)
 
 ## Capítulo 5: Ejercicios para practicar Stata
+En este tutorial repasaremos algunos de los comandos estudiados en capítulos anteriores de la serie para realizar un breve análisis de las condiciones socioeconómicas de un grupo de individuos.
 - [Link](https://www.youtube.com/watch?v=xcFJZVqTK1Y&t=12s)
 - [Base de datos](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/data1.dta)
 - [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c5.do)
