@@ -27,3 +27,9 @@ En este tutorial repasaremos algunos de los comandos estudiados en capítulos an
 - [Link](https://www.youtube.com/watch?v=xcFJZVqTK1Y&t=12s)
 - [Base de datos](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/data1.dta)
 - [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c5.do)
+
+## Capítulo 6: Cómo Ordenar tus Datos en Stata
+En este tutorial aprenderás a usar los comandos "sort" y "order" para reorganizar las observaciones y las variables de una base de datos en Stata.
+- [Link](https://youtu.be/o_q9Oas-RJg)
+- [Base de datos](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/data1.dta)
+- [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c6.do)
