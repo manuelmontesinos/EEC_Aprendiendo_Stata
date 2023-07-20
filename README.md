@@ -42,6 +42,6 @@ En este tutorial aprenderás a usar los comandos "rename" y "label" para asignar
 
 ## Capítulo 8: Operadores Lógicos en Stata
 En este tutorial aprenderás a añadir condiciones "if" a los comandos de Stata y a usar los operadores lógicos más importantes.
-- [YouTube]
+- [YouTube](https://youtu.be/2bKWrJWEmNY)
 - [Base de datos](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/data1.dta)
 - [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c8.do)
