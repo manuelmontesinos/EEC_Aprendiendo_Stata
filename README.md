@@ -45,3 +45,15 @@ En este tutorial aprenderás a añadir condiciones "if" a los comandos de Stata 
 - [YouTube](https://youtu.be/2bKWrJWEmNY)
 - [Base de datos](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/data1.dta)
 - [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c8.do)
+
+## Capítulo 9: Comandos Drop y Keep en Stata
+En este tutorial aprenderás a usar los comandos "drop" y "keep" para eliminar variables y observaciones de una base de datos en Stata.
+- [YouTube](https://youtu.be/1O_dKi2qmb8)
+- [Base de datos](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/data1.dta)
+- [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c9.do)
+
+## Capítulo 10: Cómo Crear Variables en Stata
+En este tutorial aprenderás a usar los comandos "generate" y "egen" para crear variables en Stata.
+- [YouTube](https://youtu.be/FdDUMq3skYI)
+- [Base de datos](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/data1.dta)
+- [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c10.do)
