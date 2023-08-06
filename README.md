@@ -57,3 +57,9 @@ En este tutorial aprenderás a usar los comandos "generate" y "egen" para crear 
 - [YouTube](https://youtu.be/FdDUMq3skYI)
 - [Base de datos](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/data1.dta)
 - [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c10.do)
+
+## Capítulo 11: Cómo Importar Datos en Stata
+En este tutorial aprenderás a usar los comandos "input" e "import" para crear e importar bases de datos en Stata.
+- [YouTube](https://youtu.be/DcDuqMXSVyw)
+- [Base de datos](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/data1.dta)
+- [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c11.do)
