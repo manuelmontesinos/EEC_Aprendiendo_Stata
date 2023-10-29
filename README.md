@@ -63,3 +63,13 @@ En este tutorial aprenderás a usar los comandos "input" e "import" para crear e
 - [YouTube](https://youtu.be/DcDuqMXSVyw)
 - [Base de datos](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/data1.dta)
 - [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c11.do)
+
+## Capítulo 12: Cómo Combinar Bases de Datos en Stata
+En este tutorial aprenderás a usar los comandos "append" y "merge" para combinar bases de datos en Stata.
+- [YouTube](https://youtu.be/iGmQwJY9Wgc?si=jK5kkS58Fgdx5yUl)
+- [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c12.do)
+
+## Capítulo 13: Directorios y Log Files en Stata
+En este tutorial aprenderás a navegar por los directorios de tu PC y a utilizar log files para registrar tu trabajo en Stata.
+- [YouTube](https://youtu.be/J06qnc9WKMw?si=PgsNtwOhGsb3Ja_n)
+- [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c13.do)
