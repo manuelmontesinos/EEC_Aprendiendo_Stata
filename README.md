@@ -73,3 +73,8 @@ En este tutorial aprenderás a usar los comandos "append" y "merge" para combina
 En este tutorial aprenderás a navegar por los directorios de tu PC y a utilizar log files para registrar tu trabajo en Stata.
 - [YouTube](https://youtu.be/J06qnc9WKMw?si=PgsNtwOhGsb3Ja_n)
 - [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c13.do)
+
+## Capítulo 14: Cómo Hacer Gráficos en Stata (1/2)
+En este tutorial aprenderás a hacer gráficos de líneas y de dispersión en Stata.
+- [YouTube](https://youtu.be/ZfpCYYp3L2Q?si=3j6w4RZQnqc92672)
+- [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c14.do)
