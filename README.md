@@ -78,3 +78,8 @@ En este tutorial aprenderás a navegar por los directorios de tu PC y a utilizar
 En este tutorial aprenderás a hacer gráficos de líneas y de dispersión en Stata.
 - [YouTube](https://youtu.be/ZfpCYYp3L2Q?si=3j6w4RZQnqc92672)
 - [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c14.do)
+
+## Capítulo 15: Cómo Hacer Gráficos en Stata (2/2)
+En este tutorial aprenderás a hacer histogramas y personalizar tus gráficos en Stata.
+- [YouTube](https://youtu.be/mFzvhksswjU?si=K0ZQDWL0ADonDou4)
+- [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c15.do)
