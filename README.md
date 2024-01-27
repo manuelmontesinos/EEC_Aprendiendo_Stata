@@ -83,3 +83,13 @@ En este tutorial aprenderás a hacer gráficos de líneas y de dispersión en St
 En este tutorial aprenderás a hacer histogramas y personalizar tus gráficos en Stata.
 - [YouTube](https://youtu.be/mFzvhksswjU?si=K0ZQDWL0ADonDou4)
 - [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c15.do)
+
+## Capítulo 16: Macros Locales y Globales en Stata 
+En este tutorial aprenderás qué son y cómo se usan los macros locales y globales en Stata.
+- [YouTube](https://youtu.be/FAdUWAi5S_U)
+- [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c16.do)
+
+## Capítulo 17: Loops en Stata
+En este tutorial aprenderás cómo utilizar loops en Stata.
+- [YouTube](https://youtu.be/BWkSBQKWR2o)
+- [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c17.do)
