@@ -93,3 +93,8 @@ En este tutorial aprenderás qué son y cómo se usan los macros locales y globa
 En este tutorial aprenderás cómo utilizar loops en Stata.
 - [YouTube](https://youtu.be/BWkSBQKWR2o)
 - [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c17.do)
+
+## Capítulo 18: Cómo Escribir Comandos en Stata
+En este tutorial aprenderás a escribir tus propios comandos en Stata.
+- [YouTube](https://youtu.be/uJjcdCDB9vY)
+- [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c18.do)
