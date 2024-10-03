@@ -98,3 +98,10 @@ En este tutorial aprenderás cómo utilizar loops en Stata.
 En este tutorial aprenderás a escribir tus propios comandos en Stata.
 - [YouTube](https://youtu.be/uJjcdCDB9vY)
 - [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c18.do)
+
+## Resolviendo Problemas en Stata
+
+### Problema 1: Cómo extraer información de variables string en Stata
+En este vídeo respondemos a la pregunta de un suscriptor sobre cómo extraer información de variables string en Stata.
+- [YouTube](https://youtu.be/pxykFVKj1gg)
+- [Do-file](https://github.com/manuelmontesinos/EEC_Aprendiendo_Stata/blob/main/dofile_c18.do)
